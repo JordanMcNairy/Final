@@ -30,12 +30,16 @@ hr {
 }
 
 .sizer {
-      width: 700px;
-      margin: 40 auto;
-      padding: 30px;
-      width: 50%;
 
       
+
+     margin: 0 auto; 
+     width: 1000px; 
+    padding:20px;
+
+
+
+
         
     
 }
@@ -79,4 +83,12 @@ body {
 
 div {
   display: block;
+}
+
+
+img {
+    width:700px; /* you can use % */
+    height: auto;
+     float: right;
+    padding: 50px;
 }
